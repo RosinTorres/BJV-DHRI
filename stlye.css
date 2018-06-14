@@ -1,0 +1,32 @@
+h1 {
+    color: orange;
+    font-style: italic;
+}
+p {
+    font-family: san serif;
+    font-style: normal;
+}
+#navbar {
+    background-color: yellow;
+    padding: 40px;
+}
+.intro {
+    font-family: arial;
+    background-color: grey;
+    color: dark grey;
+}
+p {
+    color: green;
+}
+p strong {
+    color: red;
+}
+.intro {
+    font-family: arial;
+    background-color: red;
+    color: yellow;
+}
+#navbar {
+    background-color: yellow;
+    passing: 40px
+}
